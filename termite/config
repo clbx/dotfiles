@@ -7,7 +7,7 @@ allow_bold = true
 dynamic_title = true
 urgent_on_bell = true
 clickable_url = true
-font = Monospace 8
+font = monospace 8
 scrollback_lines = 10000
 search_wrap = true
 #icon_name = terminal
@@ -36,7 +36,7 @@ filter_unmatched_urls = true
 #cursor_foreground = #dcdccc
 foreground = #dcdccc
 foreground_bold = #ffffff
-background = rgba(63, 63, 63, 0.99)
+background = #151617
 
 # 20% background transparency (requires a compositor)
 #background = rgba(63, 63, 63, 0.8)
