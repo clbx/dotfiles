@@ -1,4 +1,4 @@
-# Linux .Files
+# Linux .Files (Outdated, will be updating soon. Did a whole re-rice)
 
 
 Running Arch Linux with i3-Gaps on a Thinkpad X230 affectionaly named Bucket.
