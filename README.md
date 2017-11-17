@@ -6,7 +6,7 @@ Running Arch Linux with i3-Gaps on my laptop an Thinkpad X230 and Self-Built Des
 _Empty Desktop_
 **Programs Shown**
 * [i3-gaps](https://github.com/Airblader/i3) is the Window Manager
-* Polybar [https://github.com/jaagr/polybar] running in the bar with a few custom scripts.
+* [Polybar](https://github.com/jaagr/polybar) running in the bar with a few custom scripts.
 * Notification Daemon is dunstify from [dunst](https://github.com/dunst-project/dunst)
 
 
